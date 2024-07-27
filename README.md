@@ -19,7 +19,7 @@
 
 >개발 기간: 2021/11 ~ 2023/01
 
-### 3. [플래피버프 모작](https://github.com/slllldka/FlappyBird)
+### 3. [플래피버드 모작](https://github.com/slllldka/FlappyBird)
 플래피버드 모작(개인 프로젝트)
 
 >언어: JAVA
