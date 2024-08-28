@@ -11,11 +11,11 @@
 >개발 기간: 2021/11 ~ 2023/01
 
 ### 2. [테트리스 앱](https://github.com/slllldka/Tetris_App)
-테트리스 앱(학교 수업 '모바일앱프로그래밍' 개인 프로젝트)<br>
+테트리스 앱(학교 수업 '모바일앱프로그래밍실습' 개인 프로젝트)<br>
 
 >언어: JAVA(app), python(server)<br>
 
->웹 서버 활용, DB 활용, 디자인 패턴(MVP) 사용<br>
+>웹 서버 활용, DB(AWS) 활용, 디자인 패턴(MVP) 사용<br>
 
 >개발 기간: 2022/05
 
@@ -45,7 +45,7 @@
 ### 6. [트럼프 카드 게임](https://github.com/slllldka/Trump_Card_Game)
 블랙잭, 원카드 게임(개인 프로젝트)<br>
 
->언어: C#(client), JAVA(server)<br>
+>언어: C#(client, server), JAVA(server)<br>
 
 >소켓 프로그래밍 활용<br>
 
